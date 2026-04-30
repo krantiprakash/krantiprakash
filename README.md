@@ -155,10 +155,6 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 
 </div>
