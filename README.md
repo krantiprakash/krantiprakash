@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience building end-to-end deep learning pipelines — from industrial defect detection systems to LLM-powered analytics apps.
+I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience building end-to-end Machine learning pipelines — from industrial defect detection systems to LLM-powered analytics apps.
 
-- **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. Thesis: multimodal vision-language model for procedural task verification (CLIP + TimeSformer + T5)
+- **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. Thesis: multimodal vision-language model for task verification (CLIP + TimeSformer + T5) in procedural videos
 - **Former CV Engineer @ Mowito Automation** — built pixel-level anomaly detection and OCR classification pipelines for industrial manufacturing
 - Work spans **two tracks**: deep computer vision (segmentation, detection, tracking, anomaly detection) and AI/ML/GenAI (LLMs, NLP, fraud detection, forecasting)
 - Currently building portfolio projects and deepening expertise in **MLOps**, **LLM pipelines**, and **Advance computer vision**
