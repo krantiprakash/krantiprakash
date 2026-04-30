@@ -37,7 +37,7 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 | Task | Approach | Result |
 |---|---|---|
 | Ceramic defect detection | SuperSimpleNet + WideResNet50, anomaly detection | **90% recall** |
-| OCR character disambiguation (0 vs O) | PaddleOCR + geometric feature analysis | Deployed on alternator parts |
+| OCR character disambiguation (0 vs O) | PaddleOCR + geometric feature analysis | Deployed on production line |
 
 `Python` `PyTorch` `OpenCV` `SuperSimpleNet` `WideResNet50` `PaddleOCR` `CVAT` `Anomaly Detection`
 
