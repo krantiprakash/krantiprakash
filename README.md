@@ -30,6 +30,19 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 
 ---
 
+## 💼 Industry Experience
+
+**Computer Vision Engineer — Mowito Automation Pvt. Ltd., Bangalore** *(Jul 2025 – Feb 2026)*
+
+| Task | Approach | Result |
+|---|---|---|
+| Ceramic defect detection | SuperSimpleNet + WideResNet50, anomaly detection | **90% recall** |
+| OCR character disambiguation (0 vs O) | PaddleOCR + geometric feature analysis | Deployed on alternator parts |
+
+`Python` `PyTorch` `OpenCV` `SuperSimpleNet` `WideResNet50` `PaddleOCR` `CVAT` `Anomaly Detection`
+
+---
+
 ## 📊 Key Results at a Glance
 
 <div align="center">
@@ -50,80 +63,6 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch"/><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV"/><br/>
-      <sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/><br/>
-      <sub><b>FastAPI</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/><br/>
-      <sub><b>AWS EC2</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-**Tools & Platforms**
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/><br/>
-      <sub><b>GitHub Actions</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=streamlit" width="45" height="45" alt="Streamlit"/><br/>
-      <sub><b>Streamlit</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wandb" width="45" height="45" alt="W&B"/><br/>
-      <sub><b>W&amp;B</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 **Deep Learning & CV**
 
@@ -162,8 +101,6 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-</div>
-
 ---
 
 ## 🚀 Projects
@@ -192,19 +129,6 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 
 ---
 
-## 💼 Industry Experience
-
-**Computer Vision Engineer — Mowito Automation Pvt. Ltd., Bangalore** *(Jul 2025 – Feb 2026)*
-
-| Task | Approach | Result |
-|---|---|---|
-| Ceramic defect detection | SuperSimpleNet + WideResNet50, anomaly detection | **90% recall** |
-| OCR character disambiguation (0 vs O) | PaddleOCR + geometric feature analysis | Deployed on alternator parts |
-
-`Python` `PyTorch` `OpenCV` `SuperSimpleNet` `WideResNet50` `PaddleOCR` `CVAT` `Anomaly Detection`
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -227,14 +151,9 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 
 </div>
-
 
 
 
