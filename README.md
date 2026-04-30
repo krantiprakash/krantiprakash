@@ -113,23 +113,23 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 
 | Project | Stack | Results |
 |---|---|---|
-| 🛰️ [**Water Body Segmentation**](https://github.com/krantiprakash/water-body-segmentation-in-satellite-images) | U-Net++, EfficientNet-B4, scSE, FastAPI, Docker | IoU **82.92%** · Recall 90.83% · Dice 90.54% · CI/CD |
-| 🚁 [**VisDrone Multi-Object Tracking**](https://github.com/krantiprakash/VisDrone2019-Multi-Object-Detection-and-Tracking) | Faster R-CNN, ResNet-50 FPN, ByteTrack | mAP@0.50 **37.4%** · HOTA **33.01%** · IDF1 38.75% |
-| 🔧 [**Scratch Detection & Classification**](https://github.com/krantiprakash/scratch-detection-classification-using-computer-vision) | ResNet50, Mask R-CNN, PyTorch | Accuracy **95%** · Precision 96% · F1 86% |
-| 🌊 [**Underwater Pipeline Detection**](https://github.com/krantiprakash/Underwater_Pipeline_Detection_Computer_Vision_Classical_CV) | OpenCV, Classical CV | Detection **83.33%** vs 56.25% baseline |
+| [**Water Body Segmentation**](https://github.com/krantiprakash/water-body-segmentation-in-satellite-images) | U-Net++, EfficientNet-B4, scSE, FastAPI, Docker | IoU **82.92%** · Recall 90.83% · Dice 90.54% · CI/CD |
+| [**VisDrone Multi-Object Tracking**](https://github.com/krantiprakash/VisDrone2019-Multi-Object-Detection-and-Tracking) | Faster R-CNN, ResNet-50 FPN, ByteTrack | mAP@0.50 **37.4%** · HOTA **33.01%** · IDF1 38.75% |
+| [**Scratch Detection & Classification**](https://github.com/krantiprakash/scratch-detection-classification-using-computer-vision) | ResNet50, Mask R-CNN, PyTorch | Accuracy **95%** · Precision 96% · F1 86% |
+| [**Underwater Pipeline Detection**](https://github.com/krantiprakash/Underwater_Pipeline_Detection_Computer_Vision_Classical_CV) | OpenCV, Classical CV | Detection **83.33%** vs 56.25% baseline |
 
 ### 🤖 AI / ML / GenAI
 
 | Project | Stack | Results |
 |---|---|---|
-| 🔍 [**Insurance Fraud Detection**](https://github.com/krantiprakash/AI-Powered-Insurance-Fraud-Detection-System) | LightGBM, Isolation Forest, spaCy, LLaMA 3.1, Groq | AUC-ROC **82%** · LLM fraud reports · Streamlit app |
-| 📦 [**Shipment Delay Prediction**](https://github.com/krantiprakash/Shipment-Delay-Prediction) | Logistic Regression, scikit-learn, Streamlit | Accuracy **91.68%** · Precision **100%** · Batch + real-time |
+| [**Insurance Fraud Detection**](https://github.com/krantiprakash/AI-Powered-Insurance-Fraud-Detection-System) | LightGBM, Isolation Forest, spaCy, LLaMA 3.1, Groq | AUC-ROC **82%** · LLM fraud reports · Streamlit app |
+| [**Shipment Delay Prediction**](https://github.com/krantiprakash/Shipment-Delay-Prediction) | Logistic Regression, scikit-learn, Streamlit | Accuracy **91.68%** · Precision **100%** · Batch + real-time |
 
 ### 🎓 Research / Thesis
 
 | Project | Stack | Results |
 |---|---|---|
-| 🎬 [**Task Verification in Procedural Videos**](https://github.com/krantiprakash/Task-verification-in-Procedural-videos) | CLIP, TimeSformer, T5, PyTorch | BERTScore F1 **78.34%** · BLEU 37.13% · ROUGE-L 59.09% · METEOR 59.10% |
+| [**Task Verification in Procedural Videos**](https://github.com/krantiprakash/Task-verification-in-Procedural-videos) | CLIP, TimeSformer, T5, PyTorch | BERTScore F1 **78.34%** · BLEU 37.13% · ROUGE-L 59.09% · METEOR 59.10% |
 
 ---
 
