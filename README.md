@@ -23,8 +23,8 @@ I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience 
 
 - 🎓 **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. Thesis: multimodal vision-language model for procedural task verification (CLIP + TimeSformer + T5)
 - 🏭 **Former CV Engineer @ Mowito Automation** — built pixel-level anomaly detection and OCR classification pipelines for industrial manufacturing
-- 🔀 Work spans **two tracks**: deep computer vision (segmentation, detection, tracking, anomaly detection) and AI/ML/GenAI (LLMs, NLP, fraud detection, forecasting)
-- 🌱 Currently building portfolio projects and deepening expertise in **MLOps**, **LLM pipelines**, and **time-series forecasting**
+- 🔀 Work spans **two tracks**: computer vision (segmentation, detection, tracking, anomaly detection) and AI/ML/GenAI (LLMs, NLP, fraud detection, forecasting)
+- 🌱 Currently building portfolio projects and deepening expertise in **MLOps**, **LLM pipelines**, and **Advance computer vision**
 - 💼 **Actively looking for** CV Engineer · AI/ML Engineer · Data Scientist roles
 
 ---
