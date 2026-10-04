@@ -30,7 +30,7 @@ I'm a **Machine Learning Engineer** with **1+ year of industry experience**, spe
 
 - ⚽ **Currently working at Sports for Life (SFL)** as a Machine Learning Engineer, where I build and improve end-to-end sports analytics pipelines for football, covering video processing, player and ball tracking, event analysis, player statistics, and automated video insights.
 
-- 🏭 **Before joining SFL, I worked at Mowito Automation** as a Computer Vision Engineer, developing vision-based solutions for industrial applications, including defect detection, anomaly detection, and OCR-based inspection.
+- 🏭 **Before joining SFL, I worked at Mowito Automation** as a Computer Vision Engineer, developing vision-based solutions for industrial robotic applications, including defect detection, anomaly detection, and OCR-based inspection.
 
 - 🎓 **M.Tech in Robotics and Mobility Systems from IIT Jodhpur**, where my research focused on video understanding and multimodal learning.
 
