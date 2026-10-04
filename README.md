@@ -245,7 +245,7 @@ Research on underwater pipeline detection using classical computer vision techni
 2017 – 2021
 
 ---
-
+<!-- 
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -262,7 +262,7 @@ Research on underwater pipeline detection using classical computer vision techni
 
 <img src="https://github-profile-trophy.vercel.app/?username=krantiprakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%"/>
 
-</div>
+</div> -->
 
 ---
 
