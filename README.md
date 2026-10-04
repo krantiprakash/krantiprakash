@@ -11,14 +11,14 @@
 <br/>
 
 <a href="mailto:krantiprakash64@gmail.com">
-  <img src="https://img.shields.io/badge/Email-krantiprakash64%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-krantiprakash64%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/kranti-prakash">
-  <img src="https://img.shields.io/badge/LinkedIn-Kranti%20Prakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Kranti%20Prakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-00A86B?style=flat-square&logo=checkmarx&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-00A86B?style=flat-square&logo=checkmarx&logoColor=white"/>
 
 </div>
 
@@ -28,13 +28,13 @@
 
 I'm a **Machine Learning Engineer** with **1+ year of industry experience**, specializing in Computer Vision and building end-to-end machine learning solutions.
 
-* ⚽ **Machine Learning Engineer @ Sports for Life (SFL)** — building and improving end-to-end sports analytics pipelines for football, covering video processing, player and ball tracking, event analysis, player statistics, and automated video insights.
+- ⚽ **Currently working at Sports for Life (SFL)** as a Machine Learning Engineer, where I build and improve end-to-end sports analytics pipelines for football, covering video processing, player and ball tracking, event analysis, player statistics, and automated video insights.
 
-* 🏭 **Former Computer Vision Engineer @ Mowito Automation** — developed computer vision solutions for industrial applications, including defect detection, anomaly detection, and OCR-based inspection.
+- 🏭 **Before joining SFL, I worked at Mowito Automation** as a Computer Vision Engineer, developing vision-based solutions for industrial applications, including defect detection, anomaly detection, and OCR-based inspection.
 
-* 🎓 **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. My research focused on video understanding and multimodal learning.
+- 🎓 **M.Tech in Robotics and Mobility Systems from IIT Jodhpur**, where my research focused on video understanding and multimodal learning.
 
-* 📄 **Published Research** — co-authored a paper on underwater pipeline detection using classical computer vision techniques, published at **AIR '25 — 7th International Conference on Advances in Robotics (ACM)**.
+- 📄 **Published research** on underwater pipeline detection using classical computer vision techniques at **AIR '25 — 7th International Conference on Advances in Robotics (ACM)**.
 
 My interests lie at the intersection of **Computer Vision, Machine Learning, video understanding, sports analytics, and real-world intelligent systems**.
 
@@ -48,13 +48,13 @@ My interests lie at the intersection of **Computer Vision, Machine Learning, vid
 
 Building and improving end-to-end sports analytics pipelines for football.
 
-* Developing and improving computer vision pipelines for **player and ball detection, tracking, jersey number recognition, and team assignment**.
-* Working on football event analytics including **passes, shots, assists, tackles, interceptions, dribbles, possession, through balls, and goalkeeper saves**.
-* Improving GPU-based inference workflows for processing multiple matches in parallel.
-* Integrating analytics outputs with downstream **player statistics and automated highlight-generation workflows**.
+- Developing and improving computer vision pipelines for **player detection, ball detection, player tracking, jersey number recognition, and team assignment**.
+- Working on football event analytics including **passes, shots, assists, tackles, interceptions, dribbles, possession, through balls, and goalkeeper saves**.
+- Improving GPU-based inference workflows for processing multiple matches in parallel.
+- Integrating analytics outputs with downstream **player statistics and automated highlight-generation workflows**.
 
-**Tech:**
-`Python` `PyTorch` `YOLOX` `MCByteTrack` `PARSeq` `SAM2` `PoseNet` `OpenCV` `FFmpeg` `AWS SageMaker`
+**Technologies:**  
+`Python` `PyTorch` `YOLOX` `MCByteTrack` `PARSeq` `SAM2` `PoseNet` `OpenCV` `FFmpeg` `AWS SageMaker` `AWS S3`
 
 ---
 
@@ -62,71 +62,72 @@ Building and improving end-to-end sports analytics pipelines for football.
 
 **July 2025 – February 2026**
 
-Developed computer vision solutions for industrial automation and inspection.
+Worked on computer vision solutions for industrial applications.
 
-* Worked on **defect detection and classification** for industrial inspection.
-* Developed **anomaly detection** pipelines for identifying visual defects.
-* Worked on **OCR-based inspection** and vision-based quality control.
-* Built and evaluated computer vision pipelines using deep learning and image-processing techniques.
+- Developed solutions for **defect detection and classification**.
+- Worked on **anomaly detection** for identifying visual defects.
+- Worked on **OCR-based inspection** for industrial applications.
+- Developed and evaluated computer vision pipelines using deep learning and image-processing techniques.
 
-**Tech:**
-`Python` `PyTorch` `OpenCV` `YOLO` `Mask R-CNN` `ResNet` `OCR`
+**Technologies:**  
+`Python` `PyTorch` `OpenCV` `ResNet50` `Mask R-CNN` `OCR`
 
 ---
 
 ## 📊 Selected Results
 
-| Area                               |                        Result |
-| ---------------------------------- | ----------------------------: |
-| Industrial Anomaly Detection       |                **90% Recall** |
-| Satellite Image Segmentation       |                **82.92% IoU** |
-| Shipment Delay Prediction          |           **91.68% Accuracy** |
-| Insurance Fraud Detection          |               **82% AUC-ROC** |
-| Procedural Video QA                |       **78.34% BERTScore F1** |
-| Multi-Object Tracking              |                **33.01 HOTA** |
-| Scratch Detection & Classification |              **95% Accuracy** |
-| Underwater Pipeline Detection      | **83.33% Detection Accuracy** |
+| Project / Area | Result |
+|---|---:|
+| Industrial Anomaly Detection | **90% Recall** |
+| Satellite Image Segmentation | **82.92% IoU** |
+| Shipment Delay Prediction | **91.68% Accuracy** |
+| Insurance Fraud Detection | **82% AUC-ROC** |
+| Procedural Video QA | **78.34% BERTScore F1** |
+| Multi-Object Tracking | **33.01 HOTA** |
+| Scratch Detection & Classification | **95% Accuracy** |
+| Underwater Pipeline Detection | **83.33% Detection Accuracy** |
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & ML
+### Programming & Data
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
-### Computer Vision & Deep Learning
+### Computer Vision & Machine Learning
 
 <p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOX-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/MCByteTrack-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/PARSeq-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/SAM2-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Mask%20R--CNN-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/ResNet50-111111?style=flat-square"/>
 </p>
 
 ### Sports Analytics & Video
 
 <p>
-<img src="https://img.shields.io/badge/Player%20Tracking-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Football%20Analytics-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Event%20Detection-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Player%20Tracking-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Event%20Analysis-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Video%20Understanding-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
 </p>
 
-### Cloud & Infrastructure
+### Cloud & Tools
 
 <p>
 <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -141,7 +142,7 @@ Developed computer vision solutions for industrial automation and inspection.
 
 Semantic segmentation of water bodies in satellite imagery using deep learning.
 
-**Approach:** U-Net++ with EfficientNet-B4 encoder
+**Approach:** U-Net++ with EfficientNet-B4
 
 **Result:** **82.92% IoU**
 
@@ -151,7 +152,7 @@ Semantic segmentation of water bodies in satellite imagery using deep learning.
 
 ### 🎥 VisDrone Multi-Object Detection & Tracking
 
-Multi-object detection and tracking on aerial imagery using the VisDrone dataset.
+Multi-object detection and tracking using the VisDrone dataset.
 
 **Result:** **33.01 HOTA**
 
@@ -195,7 +196,7 @@ Video question-answering system for verifying procedural steps in instructional 
 
 ### 🛡️ AI-Powered Insurance Fraud Detection
 
-Machine learning pipeline for identifying potentially fraudulent insurance claims.
+Machine learning system for identifying potentially fraudulent insurance claims.
 
 **Result:** **82% AUC-ROC**
 
@@ -219,9 +220,9 @@ Machine learning system for predicting shipment delays.
 
 **AIR '25 — 7th International Conference on Advances in Robotics (ACM)**
 
-Research on applying classical computer vision techniques for practical underwater pipeline detection for robotic exploration and maintenance.
+Research on underwater pipeline detection using classical computer vision techniques for robotic exploration and maintenance.
 
-**Authors:** Kranti Prakash, Arashdeep Singh, Chaitanya Patil, Harshit Dhanorkar
+**Authors:** Kranti Prakash, Arashdeep Singh, Chaitanya Shashikant Patil, Harshit Rajesh Dhanorkar
 
 [View Paper →](https://doi.org/10.1145/3787370.3787436)
 
@@ -231,7 +232,7 @@ Research on applying classical computer vision techniques for practical underwat
 
 ### Indian Institute of Technology Jodhpur
 
-**M.Tech — Robotics and Mobility Systems**
+**M.Tech — Robotics and Mobility Systems**  
 2023 – 2025
 
 **Thesis:** Task Verification in Procedural Videos via Video Question Answering
@@ -240,7 +241,7 @@ Research on applying classical computer vision techniques for practical underwat
 
 ### Nitte Meenakshi Institute of Technology, Bangalore
 
-**B.E. — Mechanical Engineering**
+**B.E. — Mechanical Engineering**  
 2017 – 2021
 
 ---
