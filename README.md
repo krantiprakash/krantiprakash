@@ -1,18 +1,24 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Kranti%20Prakash&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20AI%2FML%20Engineer&descSize=18&descAlignY=60&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Kranti%20Prakash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+### Machine Learning Engineer · Computer Vision
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+real-world+ML+systems;Computer+Vision+%7C+Machine+Learning+%7C+Sports+Analytics;End-to-End+Sports+Analytics+Pipelines;IIT+Jodhpur+M.Tech+%7C+Bangalore%2C+India" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+ML+systems+%F0%9F%9A%80;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;AI+%2F+ML+%7C+NLP+%7C+GenAI+Pipelines;IIT+Jodhpur+M.Tech+%7C+Bangalore%2C+India" alt="Typing SVG" />
-
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/krantiprakash64%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krantiprakash64@gmail.com)
+<a href="mailto:krantiprakash64@gmail.com">
+  <img src="https://img.shields.io/badge/Email-krantiprakash64%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kranti--prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kranti-prakash)
+<a href="https://www.linkedin.com/in/kranti-prakash">
+  <img src="https://img.shields.io/badge/LinkedIn-Kranti%20Prakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00B140?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Open%20to%20Work-00A86B?style=flat-square&logo=checkmarx&logoColor=white" />
 
 </div>
 
@@ -20,298 +26,267 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience building end-to-end Machine learning pipelines — from industrial defect detection systems to LLM-powered analytics apps.
+I'm a **Machine Learning Engineer** with **1+ year of industry experience**, specializing in Computer Vision and building end-to-end machine learning solutions.
 
-- **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. Thesis: multimodal vision-language model for task verification (CLIP + TimeSformer + T5) in procedural videos
-- **Former CV Engineer @ Mowito Automation** — built pixel-level anomaly detection and OCR classification pipelines for industrial manufacturing
-- Work spans **two tracks**: deep computer vision (segmentation, detection, tracking, anomaly detection) and AI/ML/GenAI (LLMs, NLP, fraud detection, forecasting)
-- Currently building portfolio projects and deepening expertise in **MLOps**, **LLM pipelines**, and **Advance computer vision**
-- **Actively looking for** CV Engineer · AI/ML Engineer · Data Scientist roles
+* ⚽ **Machine Learning Engineer @ Sports for Life (SFL)** — building and improving end-to-end sports analytics pipelines for football, covering video processing, player and ball tracking, event analysis, player statistics, and automated video insights.
+
+* 🏭 **Former Computer Vision Engineer @ Mowito Automation** — developed computer vision solutions for industrial applications, including defect detection, anomaly detection, and OCR-based inspection.
+
+* 🎓 **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. My research focused on video understanding and multimodal learning.
+
+* 📄 **Published Research** — co-authored a paper on underwater pipeline detection using classical computer vision techniques, published at **AIR '25 — 7th International Conference on Advances in Robotics (ACM)**.
+
+My interests lie at the intersection of **Computer Vision, Machine Learning, video understanding, sports analytics, and real-world intelligent systems**.
 
 ---
 
 ## 💼 Industry Experience
 
-**Computer Vision Engineer — Mowito Automation Pvt. Ltd., Bangalore** *(Jul 2025 – Feb 2026)*
+### Machine Learning Engineer — Sports for Life (SFL), Bangalore
 
-| Task | Approach | Result |
-|---|---|---|
-| Ceramic defect detection | SuperSimpleNet + WideResNet50, anomaly detection | **90% recall** |
-| OCR character disambiguation (0 vs O) | PaddleOCR + geometric feature analysis | Deployed on production line |
+**May 2026 – Present**
 
-`Python` `PyTorch` `OpenCV` `SuperSimpleNet` `WideResNet50` `PaddleOCR` `CVAT` `Anomaly Detection`
+Building and improving end-to-end sports analytics pipelines for football.
+
+* Developing and improving computer vision pipelines for **player and ball detection, tracking, jersey number recognition, and team assignment**.
+* Working on football event analytics including **passes, shots, assists, tackles, interceptions, dribbles, possession, through balls, and goalkeeper saves**.
+* Improving GPU-based inference workflows for processing multiple matches in parallel.
+* Integrating analytics outputs with downstream **player statistics and automated highlight-generation workflows**.
+
+**Tech:**
+`Python` `PyTorch` `YOLOX` `MCByteTrack` `PARSeq` `SAM2` `PoseNet` `OpenCV` `FFmpeg` `AWS SageMaker`
 
 ---
 
-## 📊 Key Results at a Glance
+### Computer Vision Engineer — Mowito Automation Pvt. Ltd., Bangalore
+
+**July 2025 – February 2026**
+
+Developed computer vision solutions for industrial automation and inspection.
+
+* Worked on **defect detection and classification** for industrial inspection.
+* Developed **anomaly detection** pipelines for identifying visual defects.
+* Worked on **OCR-based inspection** and vision-based quality control.
+* Built and evaluated computer vision pipelines using deep learning and image-processing techniques.
+
+**Tech:**
+`Python` `PyTorch` `OpenCV` `YOLO` `Mask R-CNN` `ResNet` `OCR`
+
+---
+
+## 📊 Selected Results
+
+| Area                               |                        Result |
+| ---------------------------------- | ----------------------------: |
+| Industrial Anomaly Detection       |                **90% Recall** |
+| Satellite Image Segmentation       |                **82.92% IoU** |
+| Shipment Delay Prediction          |           **91.68% Accuracy** |
+| Insurance Fraud Detection          |               **82% AUC-ROC** |
+| Procedural Video QA                |       **78.34% BERTScore F1** |
+| Multi-Object Tracking              |                **33.01 HOTA** |
+| Scratch Detection & Classification |              **95% Accuracy** |
+| Underwater Pipeline Detection      | **83.33% Detection Accuracy** |
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & ML
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+### Computer Vision & Deep Learning
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOX-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCByteTrack-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/PARSeq-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/SAM2-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mask%20R--CNN-111111?style=flat-square"/>
+</p>
+
+### Sports Analytics & Video
+
+<p>
+<img src="https://img.shields.io/badge/Player%20Tracking-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Football%20Analytics-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Event%20Detection-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Video%20Understanding-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ Water Body Segmentation in Satellite Images
+
+Semantic segmentation of water bodies in satellite imagery using deep learning.
+
+**Approach:** U-Net++ with EfficientNet-B4 encoder
+
+**Result:** **82.92% IoU**
+
+[View Project →](https://github.com/krantiprakash/water-body-segmentation-in-satellite-images)
+
+---
+
+### 🎥 VisDrone Multi-Object Detection & Tracking
+
+Multi-object detection and tracking on aerial imagery using the VisDrone dataset.
+
+**Result:** **33.01 HOTA**
+
+[View Project →](https://github.com/krantiprakash/VisDrone2019-Multi-Object-Detection-and-Tracking)
+
+---
+
+### 🔍 Scratch Detection & Classification
+
+Computer vision pipeline for detecting and classifying surface scratches.
+
+**Approach:** ResNet50 + Mask R-CNN
+
+**Result:** **95% Accuracy**
+
+[View Project →](https://github.com/krantiprakash/scratch-detection-classification-using-computer-vision)
+
+---
+
+### 🌊 Underwater Pipeline Detection
+
+Classical computer vision pipeline for underwater pipeline detection.
+
+**Result:** **83.33% Detection Accuracy**
+
+[View Project →](https://github.com/krantiprakash/Underwater_Pipeline_Detection_Computer_Vision_Classical_CV)
+
+---
+
+### 🎬 Task Verification in Procedural Videos
+
+Video question-answering system for verifying procedural steps in instructional videos.
+
+**Approach:** CLIP + TimeSformer + Cross-Modal Transformer + T5
+
+**Result:** **78.34% BERTScore F1**
+
+[View Project →](https://github.com/krantiprakash/Task-verification-in-Procedural-videos)
+
+---
+
+### 🛡️ AI-Powered Insurance Fraud Detection
+
+Machine learning pipeline for identifying potentially fraudulent insurance claims.
+
+**Result:** **82% AUC-ROC**
+
+[View Project →](https://github.com/krantiprakash/AI-Powered-Insurance-Fraud-Detection-System)
+
+---
+
+### 📦 Shipment Delay Prediction
+
+Machine learning system for predicting shipment delays.
+
+**Result:** **91.68% Accuracy**
+
+[View Project →](https://github.com/krantiprakash/Shipment-Delay-Prediction)
+
+---
+
+## 📄 Publication
+
+### Enhancing Underwater Pipeline Detection for Robotic Exploration and Maintenance Using Classical Computer Vision Techniques
+
+**AIR '25 — 7th International Conference on Advances in Robotics (ACM)**
+
+Research on applying classical computer vision techniques for practical underwater pipeline detection for robotic exploration and maintenance.
+
+**Authors:** Kranti Prakash, Arashdeep Singh, Chaitanya Patil, Harshit Dhanorkar
+
+[View Paper →](https://doi.org/10.1145/3787370.3787436)
+
+---
+
+## 🎓 Education
+
+### Indian Institute of Technology Jodhpur
+
+**M.Tech — Robotics and Mobility Systems**
+2023 – 2025
+
+**Thesis:** Task Verification in Procedural Videos via Video Question Answering
+
+---
+
+### Nitte Meenakshi Institute of Technology, Bangalore
+
+**B.E. — Mechanical Engineering**
+2017 – 2021
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-| Metric | Result | Project |
-|:---|:---:|:---|
-| Anomaly Detection Recall | **90%** | Mowito — Industrial Defect Detection |
-| Satellite Segmentation IoU | **82.92%** | Water Body Segmentation |
-| Shipment Delay Accuracy | **91.68%** | Shipment Delay Prediction |
-| Fraud Detection AUC-ROC | **82%** | Insurance Fraud Detection |
-| Vision-Language BERTScore F1 | **78.34%** | Task Verification (M.Tech Thesis) |
-| Aerial MOT HOTA | **33.01%** | VisDrone Multi-Object Tracking |
-| Scratch Classification Accuracy | **95%** | Scratch Detection & Classification |
-| Underwater Pipeline Detection | **83.33%** | vs 56.25% baseline |
+<img src="https://github-readme-stats.vercel.app/api?username=krantiprakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krantiprakash&theme=tokyonight&hide_border=true" height="170"/>
 
----
-
-## 🛠️ Tech Stack
-
-**Deep Learning & CV**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
-![U-Net++](https://img.shields.io/badge/U--Net++-0078D4?style=flat-square&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-00897B?style=flat-square&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logoColor=white)
-![Mask R-CNN](https://img.shields.io/badge/Mask_R--CNN-E91E63?style=flat-square&logoColor=white)
-![ViT](https://img.shields.io/badge/ViT-6A0DAD?style=flat-square&logoColor=white)
-![Transformer](https://img.shields.io/badge/Transformer-FF6B6B?style=flat-square&logoColor=white)
-![TimeSformer](https://img.shields.io/badge/TimeSformer-0D47A1?style=flat-square&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-CC0000?style=flat-square&logoColor=white)
-
-**AI / ML / NLP**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![LLaMA 3.1](https://img.shields.io/badge/LLaMA_3.1-7B3F00?style=flat-square&logoColor=white)
-![T5](https://img.shields.io/badge/T5-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Data & MLOps**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Projects
-
-### 🖥️ Computer Vision
-
-| Project | Stack | Results |
-|---|---|---|
-| [**Water Body Segmentation**](https://github.com/krantiprakash/water-body-segmentation-in-satellite-images) | U-Net++, EfficientNet-B4, scSE, FastAPI, Docker | IoU **82.92%** · Recall 90.83% · Dice 90.54% · CI/CD |
-| [**VisDrone Multi-Object Tracking**](https://github.com/krantiprakash/VisDrone2019-Multi-Object-Detection-and-Tracking) | Faster R-CNN, ResNet-50 FPN, ByteTrack | mAP@0.50 **37.4%** · HOTA **33.01%** · IDF1 38.75% |
-| [**Scratch Detection & Classification**](https://github.com/krantiprakash/scratch-detection-classification-using-computer-vision) | ResNet50, Mask R-CNN, PyTorch | Accuracy **95%** · Precision 96% · F1 86% |
-| [**Underwater Pipeline Detection**](https://github.com/krantiprakash/Underwater_Pipeline_Detection_Computer_Vision_Classical_CV) | OpenCV, Classical CV | Detection **83.33%** vs 56.25% baseline |
-
-### 🤖 AI / ML / GenAI
-
-| Project | Stack | Results |
-|---|---|---|
-| [**Insurance Fraud Detection**](https://github.com/krantiprakash/AI-Powered-Insurance-Fraud-Detection-System) | LightGBM, Isolation Forest, spaCy, LLaMA 3.1, Groq | AUC-ROC **82%** · LLM fraud reports · Streamlit app |
-| [**Shipment Delay Prediction**](https://github.com/krantiprakash/Shipment-Delay-Prediction) | Logistic Regression, scikit-learn, Streamlit | Accuracy **91.68%** · Precision **100%** · Batch + real-time |
-
-### 🎓 Research / Thesis
-
-| Project | Stack | Results |
-|---|---|---|
-| [**Task Verification in Procedural Videos**](https://github.com/krantiprakash/Task-verification-in-Procedural-videos) | CLIP, TimeSformer, T5, PyTorch | BERTScore F1 **78.34%** · BLEU 37.13% · ROUGE-L 59.09% · METEOR 59.10% |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krantiprakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krantiprakash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=krantiprakash&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krantiprakash&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=krantiprakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%"/>
+
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
+<a href="mailto:krantiprakash64@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kranti-prakash">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/krantiprakash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
-
-
-
-
-
-
-
-<!-- <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kranti+Prakash+%F0%9F%91%8B;Computer+Vision+Engineer;AI+%2F+ML+Engineer;Building+real-world+ML+systems" alt="Typing SVG" />
 
 <br/>
 
-**CV · AI/ML · MLOps &nbsp;|&nbsp; IIT Jodhpur M.Tech &nbsp;|&nbsp; Bangalore, India**
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krantiprakash64@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kranti-prakash)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krantiprakash)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00B140?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **AI/ML and Computer Vision Engineer** with hands-on industry experience building end-to-end deep learning pipelines — from industrial defect detection systems to LLM-powered analytics apps.
-
-- 🎓 **M.Tech, IIT Jodhpur** — Robotics & Mobility Systems. Thesis: multimodal vision-language model for procedural task verification (CLIP + TimeSformer + T5)
-- 🏭 **Former CV Engineer @ Mowito Automation** — built pixel-level anomaly detection and OCR classification pipelines for industrial manufacturing
-- 🔀 Work spans **two tracks**: computer vision (segmentation, detection, tracking, anomaly detection) and AI/ML/GenAI (LLMs, NLP, fraud detection, forecasting)
-- 🌱 Currently building portfolio projects and deepening expertise in **MLOps**, **LLM pipelines**, and **Advance computer vision**
-- 💼 **Actively looking for** CV Engineer · AI/ML Engineer · Data Scientist roles
-
----
-
-## 📊 Key Results at a Glance
-
 <div align="center">
 
-| Metric | Result | Project |
-|:---|:---:|:---|
-| Anomaly Detection Recall | **90%** | Mowito — Industrial Defect Detection |
-| Satellite Segmentation IoU | **82.92%** | Water Body Segmentation |
-| Shipment Delay Accuracy | **91.68%** | Shipment Delay Prediction |
-| Fraud Detection AUC-ROC | **82%** | Insurance Fraud Detection |
-| Vision-Language BERTScore F1 | **78.34%** | Task Verification (M.Tech Thesis) |
-| Aerial MOT HOTA | **33.01%** | VisDrone Multi-Object Tracking |
-| Scratch Classification Accuracy | **95%** | Scratch Detection & Classification |
-| Underwater Pipeline Detection | **83.33%** | vs 56.25% baseline |
+**Building computer vision and machine learning solutions for real-world problems.**
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-**Computer Vision & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-CC0000?style=flat-square&logoColor=white)
-![U-Net++](https://img.shields.io/badge/U--Net++-0078D4?style=flat-square&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-00897B?style=flat-square&logoColor=white)
-![ViT](https://img.shields.io/badge/ViT-6A0DAD?style=flat-square&logoColor=white)
-![Transformer](https://img.shields.io/badge/Transformer-FF6B6B?style=flat-square&logoColor=white)
-![TimeSformer](https://img.shields.io/badge/TimeSformer-0D47A1?style=flat-square&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square&logoColor=white)
-
-**AI / ML / NLP**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.1-7B3F00?style=flat-square&logoColor=white)
-![T5](https://img.shields.io/badge/T5-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Data & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-
-**MLOps & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Projects
-
-### 🖥️ Computer Vision
-
-| Project | Stack | Results |
-|---|---|---|
-| 🛰️ [**Water Body Segmentation**](https://github.com/krantiprakash/water-body-segmentation-in-satellite-images) | U-Net++, EfficientNet-B4, scSE, FastAPI, Docker | IoU **82.92%** · Recall 90.83% · Dice 90.54% · CI/CD |
-| 🚁 [**VisDrone Multi-Object Tracking**](https://github.com/krantiprakash/VisDrone2019-Multi-Object-Detection-and-Tracking) | Faster R-CNN, ResNet-50 FPN, ByteTrack | mAP@0.50 **37.4%** · HOTA **33.01%** · IDF1 38.75% |
-| 🔧 [**Scratch Detection & Classification**](https://github.com/krantiprakash/scratch-detection-classification-using-computer-vision) | ResNet50, Mask R-CNN, PyTorch | Accuracy **95%** · Precision 96% · F1 86% |
-| 🌊 [**Underwater Pipeline Detection**](https://github.com/krantiprakash/Underwater_Pipeline_Detection_Computer_Vision_Classical_CV) | OpenCV, Classical CV | Detection **83.33%** vs 56.25% baseline |
-
-### 🤖 AI / ML / GenAI
-
-| Project | Stack | Results |
-|---|---|---|
-| 🔍 [**Insurance Fraud Detection**](https://github.com/krantiprakash/AI-Powered-Insurance-Fraud-Detection-System) | LightGBM, Isolation Forest, spaCy, LLaMA 3.1, Groq | AUC-ROC **82%** · LLM fraud reports · Streamlit app |
-| 📦 [**Shipment Delay Prediction**](https://github.com/krantiprakash/Shipment-Delay-Prediction) | Logistic Regression, scikit-learn, Streamlit | Accuracy **91.68%** · Precision **100%** · Batch + real-time |
-
-### 🎓 Research / Thesis
-
-| Project | Stack | Results |
-|---|---|---|
-| 🎬 [**Task Verification in Procedural Videos**](https://github.com/krantiprakash/Task-verification-in-Procedural-videos) | CLIP, TimeSformer, T5, PyTorch | BERTScore F1 **78.34%** · BLEU 37.13% · ROUGE-L 59.09% · METEOR 59.10% |
-
----
-
-## 💼 Industry Experience
-
-**Computer Vision Engineer — Mowito Automation Pvt. Ltd., Bangalore** *(Jul 2025 – Feb 2026)*
-
-| Task | Approach | Result |
-|---|---|---|
-| Ceramic defect detection | SuperSimpleNet + WideResNet50, anomaly detection | **90% recall** |
-| OCR character disambiguation (0 vs O) | PaddleOCR + geometric feature analysis | Deployed on alternator parts |
-
-`Python` `PyTorch` `OpenCV` `SuperSimpleNet` `WideResNet50` `PaddleOCR` `CVAT` `Anomaly Detection`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krantiprakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krantiprakash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=krantiprakash&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krantiprakash&color=58a6ff&style=flat-square&label=Profile+Views"/>
-</div> -->
